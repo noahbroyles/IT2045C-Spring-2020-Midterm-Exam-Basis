@@ -11,7 +11,7 @@ public class IntergalacticCamaro extends Spacecraft {
 
 	@Override
 	public void Launch() {
-		// I need something to put here
+		System.out.println("I am an Intergalactic Camaro and I am launching.");
 
 	}
 

@@ -14,5 +14,5 @@ package spacecraft;
  *
  */
 public interface Launch {
-	void Launch();
+	void Launch(); // I wish this had been lowercase
 }

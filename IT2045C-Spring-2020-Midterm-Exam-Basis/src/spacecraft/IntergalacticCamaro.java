@@ -15,12 +15,16 @@ public class IntergalacticCamaro extends Spacecraft {
 
 	}
 
-	
+	/***
+	 * Returns a string representation of the Intergalactic Camaro
+	 */
 	public String toString() {
 		return super.toString() + ", Color: " + getColor();
 	}
 	
+	
 	// Getters and setters
+	// These are actually both used! Yay!
 	/**
 	 * @return the color
 	 */

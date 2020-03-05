@@ -4,17 +4,21 @@ public class IntergalacticCamaro extends Spacecraft {
 	
 	private String color;
 
-	public IntergalacticCamaro(String name) {
+	public IntergalacticCamaro(String name, String color) {
 		super(name);
-		// TODO Auto-generated constructor stub
+		setColor(color);
 	}
 
 	@Override
 	public void Launch() {
-		// TODO Auto-generated method stub
+		// I need something to put here
 
 	}
 
+	
+	public String toString() {
+		return super.toString() + ", Color: " + getColor();
+	}
 	
 	// Getters and setters
 	/**

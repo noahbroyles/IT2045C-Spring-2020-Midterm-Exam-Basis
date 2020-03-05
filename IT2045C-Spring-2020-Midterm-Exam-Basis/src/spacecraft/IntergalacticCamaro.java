@@ -1,3 +1,13 @@
+/*
+ * Name: Noah Broyles
+ * Email: broylend@mail.uc.edu
+ * Midterm Exam
+ * Due Date: 3/05/2020
+ * Course: Computer Programming 2, Spring 2020
+ * Description: This is the Midterm Spacecraft Project
+ * 
+ */
+
 package spacecraft;
 
 public class IntergalacticCamaro extends Spacecraft {

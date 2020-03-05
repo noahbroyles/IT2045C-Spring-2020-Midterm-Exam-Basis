@@ -1,7 +1,9 @@
 /*
- * IT2045C Spring 2020 Midterm Exam Basis
- * Bill Nicholson
- * nicholdw@ucmail.uc.edu
+ * Name: Noah Broyles
+ * Email: broylend@mail.uc.edu
+ * Midterm Exam
+ * Due Date: 3/05/2020
+ * Course: Computer Programming 2, Spring 2020 
  */
 package spacecraft;
 

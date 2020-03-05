@@ -13,5 +13,5 @@ package spacecraft;
  *
  */
 public interface Launch {
-	void Launch();
+	void launch();
 }
